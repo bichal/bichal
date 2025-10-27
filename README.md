@@ -1,1 +1,3 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bichal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9494D8&icon_color=9494D8&text_color=FEFEFE&bg_color=9494D8,17062C,202975" alt="Mi estado de GitHub"/>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=bichal&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=FAFAFA&icon_color=FAFAFA&text_color=FAFAFA&bg_color=FFFFFF,1F3559,6F91BD" alt="Mi estado de GitHub"/>
+</p>
