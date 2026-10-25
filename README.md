@@ -1,10 +1,5 @@
-<p>
-  <img src="https://ghstats.dev/api/card?username=bichal&theme=ocean&hide_border=true&border_radius=24" align="left" width="48%" alt="GitHub Stats" />
-  
-  <img src="https://ghstats.dev/api/sparkline?username=bichal&theme=ocean&days=30&width=480&height=133&hide_border=true&border_radius=24" align="right" width="48%" alt="Sparkline" />
-  
-  <br clear="right" />
-  <div style="height: 16px;"></div>
-  
-  <img src="https://ghstats.dev/api/langs?username=bichal&theme=ocean&hide_border=true&border_radius=24&max_langs=12&layout=vertical_list" align="right" width="48%" alt="Top Languages" />
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=bichal&theme=palenight&hide_border=true&border_radius=24&hide=prs%2Ctrend%2Cavg%2Cactive_day%2Cgrade%2Crepos%2Cfollowers%2Cissues%2Ccontributions" alt="GitHub Stats Card" />
+  <br>
+  <img src="https://ghstats.dev/api/langs?username=bichal&theme=palenight&hide_border=true&border_radius=24&max_langs=12&layout=horizontal_list" alt="Top Languages" />
 </p>
