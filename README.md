@@ -1,3 +1,5 @@
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=bichal&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=FAFAFA&icon_color=FAFAFA&text_color=FAFAFA&bg_color=FFFFFF,1F3559,6F91BD" alt="Mi estado de GitHub"/>
+   <img src="https://ghstats.dev/api/card?username=bichal&theme=ocean&hide_border=true&border_radius=24" alt="GitHub Stats" /><br>
+   <img src="https://ghstats.dev/api/sparkline?username=bichal&theme=ocean&days=30&width=495&height=140&hide_border=true&border_radius=24" alt="Sparkline" /><br>
+   <img src="https://ghstats.dev/api/langs?username=bichal&theme=ocean&hide_border=true&border_radius=24&max_langs=12&layout=vertical_list" alt="Top Languages" />
 </p>
